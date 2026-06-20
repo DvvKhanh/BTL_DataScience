@@ -1,1 +1,4 @@
-# BTL_DataScience
+# BÀI TIỂU LUẬN KHOA HỌC DỮ LIỆU
+# HỌ TÊN: ĐẬU VĂN KHÁNH
+# MSSV: K225480106099
+# LỚP: K58KTP
